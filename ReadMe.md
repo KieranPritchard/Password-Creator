@@ -13,6 +13,6 @@ i didn't really come across any problems with this project. This was because i w
 
 ## How to Use the Project
 
-## Badges
-
 ## Licenses
+
+License is located "doc" folder
