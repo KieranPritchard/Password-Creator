@@ -39,4 +39,4 @@ i didn't really come across any problems with this project. This was because i w
 
 ## Licenses
 
-License is located "doc" folder
+License is located the root of the repository.
