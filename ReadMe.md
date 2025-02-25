@@ -15,6 +15,7 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KieranPritchard/Password-Creator">
 
 </div>
+
 ## Project Description
 ### Objective:
 To create a project with imported modules, loops and something that links back to cyber security and making strong passwords. I also want to improve my skills with python.
